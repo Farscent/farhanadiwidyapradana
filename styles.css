@@ -37,7 +37,7 @@ section {
 section h2 {
     font-size: 2em;
     margin-bottom: 0.5em;
-    color: #4b0082;
+    color: #ffffff; /* Changed to white */
 }
 
 #projects .project {
@@ -55,7 +55,7 @@ section h2 {
 }
 
 #projects .project a {
-    color: #4b0082;
+    color: #ffffff; /* Changed to white */
     text-decoration: none;
     font-weight: bold;
     transition: color 0.3s;
@@ -74,7 +74,7 @@ footer {
 }
 
 footer a {
-    color: #4b0082;
+    color: #ffffff; /* Changed to white */
     text-decoration: none;
     transition: color 0.3s;
 }
@@ -82,4 +82,5 @@ footer a {
 footer a:hover {
     color: #8a2be2;
 }
+
 
